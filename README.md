@@ -1,5 +1,43 @@
 # pygamon
 
+
+
+first game lol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import pygame
 pygame.init()
 
